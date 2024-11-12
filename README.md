@@ -1,9 +1,12 @@
 # Coffee Sales Dashboard 2023
 
 ## Project Overview
-
 This project showcases an interactive Excel dashboard that analyzes and reports key performance metrics for the Coffee Sales data in 2023. The dashboard provides insights into coffee sales, order trends, customer preferences, and regional performance, helping stakeholders make data-informed decisions.
 
+## Dashboard Screenshot
+Below is a screenshot of the dashboard:
+
+![coffee_sales_dashboard](https://github.com/Asawari-Nannaware/coffee-sales-dashhboard/blob/main/coffeee%20sales%20dashboard.png)
 ### Objective
 Analyze coffee sales data to extract meaningful insights on sales, order trends, customer demographics, and order distribution across different coffee varieties, roast types, and regions.
 
@@ -35,12 +38,6 @@ Analyze coffee sales data to extract meaningful insights on sales, order trends,
 5. **Top 5 Customers**
    - A bar chart displaying the top 5 customers by sales volume
    - Highlights the key accounts driving the majority of sales
-
-## Dashboard Screenshot
-
-Below is a screenshot of the dashboard:
-
-![coffee_sales_dashboard](https://github.com/Asawari-Nannaware/coffee-sales-dashhboard/blob/main/coffeee%20sales%20dashboard.png)
 
 ## File Download
 
