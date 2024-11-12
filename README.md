@@ -36,10 +36,23 @@ Analyze coffee sales data to extract meaningful insights on sales, order trends,
    - A bar chart displaying the top 5 customers by sales volume
    - Highlights the key accounts driving the majority of sales
 
+## Dashboard Screenshot
+
+Below is a screenshot of the dashboard:
+
+![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN_Store_data_dashboard.png)
+
+## File Download
+
+You can download the full Excel file from this repository to explore the dashboard interactively in Excel:
+
+[Download the STN Store Analysis Excel File](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN%20store%20data%20analysis.xlsx) 
+
 ## How to Use the Dashboard
 
 - **Filters**: The dashboard includes slicers for **Roast Type**, **Month**, **Coffee Size**, and **Loyalty Card** to allow for dynamic filtering of the data.
 - **Interactive Analysis**: Select any combination of filters to explore how different segments perform and to reveal trends specific to various coffee varieties, roast profiles, or customer demographics.
+- 
 
 ## Key Insights
 
