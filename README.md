@@ -46,7 +46,7 @@ Below is a screenshot of the dashboard:
 
 You can download the full Excel file from this repository to explore the dashboard interactively in Excel:
 
-[Download the STN Store Analysis Excel File](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN%20store%20data%20analysis.xlsx) 
+[Download the coffee_sales_ Analysis Excel File](https://github.com/Asawari-Nannaware/coffee-sales-dashhboard/blob/main/coffee_order_excel_dashboard.xlsx) 
 
 ## How to Use the Dashboard
 
