@@ -40,7 +40,7 @@ Analyze coffee sales data to extract meaningful insights on sales, order trends,
 
 Below is a screenshot of the dashboard:
 
-![STN Store Annual Report Dashboard](https://github.com/Asawari-Nannaware/STN-Store-Data-Analysis/blob/main/STN_Store_data_dashboard.png)
+![coffee_sales_dashboard](https://github.com/Asawari-Nannaware/coffee-sales-dashhboard/blob/main/coffeee%20sales%20dashboard.png)
 
 ## File Download
 
