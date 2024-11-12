@@ -61,3 +61,4 @@ You can download the full Excel file from this repository to explore the dashboa
 - **Customer Preferences**: Customers seem to prefer lighter roast profiles and larger package sizes, suggesting potential opportunities for product line extensions or promotions.
 - **Loyalty Program Impact**: The availability of a loyalty card appears to have a positive impact on customer retention and sales volume.
 
+This dashboard demonstrates my proficiency in Excel for data visualization and analysis. It provides a comprehensive look at store performance, offering actionable insights for stakeholders.
