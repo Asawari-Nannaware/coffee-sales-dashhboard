@@ -61,5 +61,3 @@ You can download the full Excel file from this repository to explore the dashboa
 - **Customer Preferences**: Customers seem to prefer lighter roast profiles and larger package sizes, suggesting potential opportunities for product line extensions or promotions.
 - **Loyalty Program Impact**: The availability of a loyalty card appears to have a positive impact on customer retention and sales volume.
 
-This coffee sales dashboard provides a comprehensive overview of the market performance, enabling stakeholders to make informed decisions and drive business growth. The interactive nature of the dashboard allows for deeper analysis and exploration of the data, leading to valuable insights.# coffee-sales-dashhboard
-Excel analysis and dashboard for coffee sales data
